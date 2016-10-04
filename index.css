@@ -1,0 +1,48 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: white;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+#article{width: 900px;
+    background: white;
+    float: left;
+    height: 500px;
+    padding-left: 60px;
+    margin-top:80px;
+   margin-bottom: 40px;
+
+}
+#top{
+    width:1300px;
+}
+
+aside{float: right;
+  display: block;
+     padding-bottom: 20px;
+    margin-top:40px;
+}
+
+#bottomlinks{
+ margin-top: 20px;
+}
+
+#yellow{height: 200px;
+width: 1300;
+background: white;
+margin-top: 650px;
+    padding-left: 80px
+}
